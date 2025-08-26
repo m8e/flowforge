@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v2.0.0-beta3 - 2025-08-26
+
+### What's Changed
+
+* Use logical properties on column / Fix on RTL by @mustafa-online in https://github.com/Relaticle/flowforge/pull/26
+
+### New Contributors
+
+* @mustafa-online made their first contribution in https://github.com/Relaticle/flowforge/pull/26
+
+**Full Changelog**: https://github.com/Relaticle/flowforge/compare/v2.0.0-beta2...v2.0.0-beta3
+
 ## 1.0.0 - 2025-08-20
 
 ### What's Changed

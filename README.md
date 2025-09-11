@@ -2,19 +2,16 @@
 
 Transform any Laravel model into a production-ready drag-and-drop Kanban board.
 
-[![Total Downloads](https://img.shields.io/packagist/dt/relaticle/flowforge.svg?style=for-the-badge)](https://packagist.org/packages/relaticle/flowforge)
-
-<div align="center">
 <img src="art/preview.png" alt="Flowforge Kanban Board" width="800">
-</div>
 
 ## Why Flowforge?
 
-- **3 Integration Patterns** - Filament Pages, Resources, or standalone Livewire  
-- **Production-Ready** - Handles 100+ cards per column with intelligent pagination  
-- **Quick Setup** - Get running in 90 seconds with minimal configuration
-- **Fully Customizable** - Actions, schemas, filters, and themes
-## Quick Start
+- **3 Integration Patterns** - Works with Filament Pages, Resources, or standalone Livewire components
+- **Enterprise-Scale Performance** - Cursor-based pagination handles unlimited cards with intelligent loading
+- **Rich Card Schemas** - Filament Schema builder creates complex card layouts with forms and components  
+- **Smart Position Management** - Advanced ranking algorithm with conflict resolution and repair commands
+- **Optimistic UI Experience** - Instant visual feedback with loading states and smooth interactions
+- **Native Filament Integration** - Deep table system integration for filters, search, and actions
 
 ```bash
 composer require relaticle/flowforge

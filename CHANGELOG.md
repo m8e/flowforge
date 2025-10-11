@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v2.0.7 - 2025-10-11
+
+### What's Changed
+
+* protected static ?string => protected static string|null|\BackedEnum by @xx1196 in https://github.com/Relaticle/flowforge/pull/40
+
+### New Contributors
+
+* @xx1196 made their first contribution in https://github.com/Relaticle/flowforge/pull/40
+
+**Full Changelog**: https://github.com/Relaticle/flowforge/compare/v2.0.6...v2.0.7
+
 ## v2.0.6 - 2025-10-04
 
 ### What's Changed

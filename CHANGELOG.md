@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v2.0.8 - 2025-10-17
+
+### What's Changed
+
+* Update installation instructions for FlowForge styles by @michaelnjuguna in https://github.com/Relaticle/flowforge/pull/43
+* build(deps): bump stefanzweifel/git-auto-commit-action from 6 to 7 by @dependabot[bot] in https://github.com/Relaticle/flowforge/pull/42
+
+### New Contributors
+
+* @michaelnjuguna made their first contribution in https://github.com/Relaticle/flowforge/pull/43
+
+**Full Changelog**: https://github.com/Relaticle/flowforge/compare/v2.0.7...v2.0.8
+
 ## v2.0.7 - 2025-10-11
 
 ### What's Changed

@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v2.1.1 - 2025-11-13
+
+### What's Changed
+
+* Refactoring Webmozart Assert dependancy in Rank service. by @OccTherapist in https://github.com/Relaticle/flowforge/pull/53
+
+**Full Changelog**: https://github.com/Relaticle/flowforge/compare/v2.1.0...v2.1.1
+
 ## v2.1.0 - 2025-11-12
 
 ### What's Changed

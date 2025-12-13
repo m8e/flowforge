@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v2.2.0 - 2025-12-13
+
+### What's Changed
+
+* Update translation key usage in empty-column view by @OccTherapist in https://github.com/Relaticle/flowforge/pull/54
+* build(deps): bump actions/checkout from 5 to 6 by @dependabot[bot] in https://github.com/Relaticle/flowforge/pull/58
+* Fix/resource page record binding by @ManukMinasyan in https://github.com/Relaticle/flowforge/pull/63
+* Add Hebrew language translations for flowforge by @csh-tech in https://github.com/Relaticle/flowforge/pull/62
+
+### New Contributors
+
+* @csh-tech made their first contribution in https://github.com/Relaticle/flowforge/pull/62
+
+**Full Changelog**: https://github.com/Relaticle/flowforge/compare/v2.1.1...v2.2.0
+
 ## v2.1.1 - 2025-11-13
 
 ### What's Changed

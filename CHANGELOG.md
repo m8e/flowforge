@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v2.2.1 - 2026-01-04
+
+### What's Changed
+
+* feat: add Portuguese language translations for flowforge by @eduardoribeirodev in https://github.com/Relaticle/flowforge/pull/65
+* fix: table search functionality in Board by @eduardoribeirodev in https://github.com/Relaticle/flowforge/pull/66
+
+### New Contributors
+
+* @eduardoribeirodev made their first contribution in https://github.com/Relaticle/flowforge/pull/65
+
+**Full Changelog**: https://github.com/Relaticle/flowforge/compare/v2.2.0...v2.2.1
+
 ## v2.2.0 - 2025-12-13
 
 ### What's Changed

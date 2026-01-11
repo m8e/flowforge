@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v3.0.0-beta3 - 2026-01-11
+
+### What's Changed
+
+* build(deps): bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 by @dependabot[bot] in https://github.com/Relaticle/flowforge/pull/70
+* refactor: add isMounting parameter to resolveActions method to match filament4.4 structure by @eduardoribeirodev in https://github.com/Relaticle/flowforge/pull/69
+
+**Full Changelog**: https://github.com/Relaticle/flowforge/compare/v3.0.0-beta2...v3.0.0-beta3
+
 ## v2.2.1 - 2026-01-04
 
 ### What's Changed
